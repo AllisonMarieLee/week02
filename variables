@@ -1,0 +1,11 @@
+fun main() {
+    
+//exercise #1
+	 val myAge: Int = 34
+    	println(myAge)
+      
+      
+      
+      
+      
+      }
