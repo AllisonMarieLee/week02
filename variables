@@ -25,6 +25,11 @@ val evenOdd= testNumber %2
 
 
 //exercise #4
-
+var answer= 0
+  answer +=1 
+    answer= answer +10
+    answer= answer *10
+    answer shr 3
+    println(answer)
 
       }
