@@ -1,11 +1,28 @@
 fun main() {
     
 //exercise #1
-	 val myAge: Int = 34
-    	println(myAge)
+val myAge: Int = 34
+    println(myAge)
       
       
       
       
+//exercise #2
+var averageAge: Double
+    averageAge=34.0
+ 
+var ownAge= 30
+    println((averageAge + ownAge)/2) // answer should be 32.0
       
+      
+
+//exercise #3
+
+
+
+
+
+//exercise #4
+
+
       }
