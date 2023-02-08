@@ -10,7 +10,6 @@ val myAge: Int = 34
 //exercise #2
 var averageAge: Double
     averageAge=34.0
- 
 var ownAge= 30
     println((averageAge + ownAge)/2) // answer should be 32.0
       
