@@ -17,8 +17,10 @@ var ownAge= 30
       
 
 //exercise #3
-
-
+val testNumber= 5
+    
+val evenOdd= testNumber %2
+    println(evenOdd) // odd outputs 1, even outputs 0
 
 
 
