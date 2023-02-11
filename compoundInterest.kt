@@ -6,7 +6,7 @@ fun main() {
     	println("Amount of pricipal originally deposited into the account: $$principal")
     
     var annualRate= 5                 // r in formula
-   		println("Annual interest rate paid by the account: $annualRate")
+   		println("Annual interest rate paid by the account: $annualRate%")
     
 	var timesPerYearCompounded= 12              // n in formula
     	println("Number of times per year that the interest is compounded: $timesPerYearCompounded")
