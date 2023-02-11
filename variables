@@ -28,7 +28,6 @@ var answer= 0
   answer +=1 
     answer= answer +10
     answer= answer *10
-    answer shr 3
-    println(answer) // Answer is 110?
+    println(answer shr 3) // Output is 13?
 
       }
